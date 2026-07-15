@@ -22,4 +22,5 @@ This Power BI dashboard analyzes Clipcart sales performance and provides busines
 - Dashboard Screenshots
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="991" height="693" alt="image" src="https://github.com/user-attachments/assets/30f79f38-f44c-401d-b10b-7bfd3ce65e25" />
+
